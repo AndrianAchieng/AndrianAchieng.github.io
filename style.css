@@ -801,4 +801,9 @@ h3.my-profession{
 }
     
 }
+img {
+    width: 150px; 
+    height: auto;
+    border: 2px solid pink;
+}
 
